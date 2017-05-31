@@ -1,0 +1,35 @@
+﻿  Executive.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  Tokenizer.cpp
+  StrongComp.cpp
+\\vboxsvr\downloads\ood_archive\saved\project2_831608197\codeanalyzer\strongcomp\strongcomp.cpp(44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  XmlParser.cpp
+  XmlElementParts.cpp
+  XmlElement.cpp
+  XmlDocument.cpp
+  Tokenizer2.cpp
+  PersistHelp.cpp
+  NoSqlDb.cpp
+  CppProperties.cpp
+  Convert.cpp
+  Logger.cpp
+  Generating Code...
+  Compiling...
+  XmlWriter.cpp
+  XmlReader.cpp
+  Graph.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  DepAnal.cpp
+  DependAnal.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  Executive.vcxproj -> \\VBOXSVR\Downloads\OOD_Archive\Saved\Project2_831608197\CodeAnalyzer\x64\Debug\TestExectutive.exe
+  Executive.vcxproj -> \\VBOXSVR\Downloads\OOD_Archive\Saved\Project2_831608197\CodeAnalyzer\x64\Debug\TestExectutive.pdb (Full PDB)
